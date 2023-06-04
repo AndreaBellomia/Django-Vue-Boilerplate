@@ -1,5 +1,5 @@
 # Django-REST
-Pre-configured django 4.2.1 project with Vue JS 3
+Pre-configured django 4.2.1 project with Vue JS 3. This configuration uses Webpack to supply static files to Django at development time Thus being able to use Django's SessionAuth avoiding Atuh via Token
 
 ## Prerequisites
 required `python 3.11`
