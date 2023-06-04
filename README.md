@@ -1,5 +1,5 @@
 # Django-REST
-Pre-configured django 4.2.1 project with Vue JS 5
+Pre-configured django 4.2.1 project with Vue JS 3
 
 ## Prerequisites
 required `python 3.11`
