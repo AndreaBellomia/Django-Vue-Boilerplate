@@ -1,0 +1,5 @@
+**/venv/
+**/webpack-stats.json
+**/node_modules/
+**/.vscode
+**/__pycache__/
